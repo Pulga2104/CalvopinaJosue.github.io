@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cmJosue.github.io/CalvopinaJosue.github.io/sitemap.xml
+Sitemap: https://cmJosue.github.io/CalvopinaJosue/sitemap.xml
