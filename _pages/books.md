@@ -1,4 +1,8 @@
 ---
+layout: none
+---
+
+---
 layout: book-shelf
 title: bookshelf
 permalink: /books/
