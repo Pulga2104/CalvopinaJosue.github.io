@@ -36,9 +36,12 @@ Además, me interesa el aprendizaje continuo de tecnologías modernas y el forta
 ---
 
 ## 🚀 Proyectos Destacados
-- **Gestor de cuentas bancarias (Java):** aplicación con funciones de creación, depósito y retiro de cuentas.  
+
+- **Gestor de Librería (Java):** aplicación para la administración de libros, clientes y ventas.  
+  [Repositorio en GitHub](https://github.com/Pulga2104/GestorLibreria)
+
 - **Árbol AVL y Árbol B (Java):** implementación completa con inserción, eliminación y búsqueda.  
-- **Ejecución de procesos e hilos en Linux (C):** comparación de desempeño entre procesos y threads.  
+  [Repositorio en GitHub](https://github.com/Pulga2104/ProyectoArbolesEDA)
 
 ---
 
