@@ -1,4 +1,8 @@
 ---
+layout: none
+---
+
+---
 layout: cv
 permalink: /cv/
 title: cv
