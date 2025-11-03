@@ -1,4 +1,8 @@
 ---
+layout: none
+---
+
+---
 layout: default
 permalink: /blog/
 title: blog
