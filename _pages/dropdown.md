@@ -1,4 +1,8 @@
 ---
+layout: none
+---
+
+---
 layout: page
 title: submenus
 nav: true
